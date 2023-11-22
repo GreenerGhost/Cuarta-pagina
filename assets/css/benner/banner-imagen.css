@@ -1,4 +1,9 @@
 .banner__imagen {
+    /*background-image: url(../../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;*/
+    background: url(../../img/banner.png) no-repeat center / cover;
     width: 100%;
     height: calc(100vh - 72px);
 }
